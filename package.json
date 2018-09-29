@@ -1,5 +1,5 @@
 {
-  "name": "g-react",
+  "name": "go-react",
   "version": "0.0.1",
   "description": "goman react generator",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "goman": "0.0.2"
   }
